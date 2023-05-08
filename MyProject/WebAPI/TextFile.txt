@@ -1,0 +1,13 @@
+﻿Add Migration
+-----------------------------------------------------
+   Command : dotnet ef migrations add [MigrationName]
+   Usage   : Which Command Generate Migration File
+
+Set To Daatabase 
+-----------------------------------------------------
+   Command :  dotnet ef database update
+   Usage   : Commit Chnages To Database
+
+
+   Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwidW5pcXVlX25hbWUiOiJNYXlhbmsiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjEyMzQ1Njc4OTAiLCJyb2xlIjoiMSIsIm5iZiI6MTYxODU3Mjc5NywiZXhwIjoxNjIxMTY0Nzk3LCJpYXQiOjE2MTg1NzI3OTd9.SE3rXqqJaSphU-XJkRbc9VX7URzdzpJINUBHYPA_sVo
+   
